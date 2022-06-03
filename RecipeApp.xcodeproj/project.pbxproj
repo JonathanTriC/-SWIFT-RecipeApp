@@ -17,6 +17,7 @@
 		BB0B4B86284999D200EFDA3F /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0B4B85284999D200EFDA3F /* FavoritesView.swift */; };
 		BB0B4B88284999E100EFDA3F /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0B4B87284999E100EFDA3F /* SettingsView.swift */; };
 		BB0B4B8A28499B9B00EFDA3F /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0B4B8928499B9B00EFDA3F /* TabBar.swift */; };
+		BB0B4B8C28499E7B00EFDA3F /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0B4B8B28499E7B00EFDA3F /* RecipeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		BB0B4B85284999D200EFDA3F /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
 		BB0B4B87284999E100EFDA3F /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		BB0B4B8928499B9B00EFDA3F /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		BB0B4B8B28499E7B00EFDA3F /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 		BB0B4B7E2849995F00EFDA3F /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				BB0B4B8B28499E7B00EFDA3F /* RecipeModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				BB0B4B802849999A00EFDA3F /* HomeView.swift in Sources */,
 				BB0B4B6E284997E100EFDA3F /* ContentView.swift in Sources */,
 				BB0B4B6C284997E100EFDA3F /* RecipeAppApp.swift in Sources */,
+				BB0B4B8C28499E7B00EFDA3F /* RecipeModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
