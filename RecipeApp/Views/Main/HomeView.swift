@@ -10,10 +10,10 @@ import SwiftUI
 struct HomeView: View {
     var body: some View {
         NavigationView {
-            List(Recipe.all) { recipe in
-                Text(recipe.name)
-                    .navigationTitle("My Recipe")
+            ScrollView {
+                RecipeList(recipes: Recipe.all)
             }
+            .navigationTitle("My Recipes")
         }
         .navigationViewStyle(.stack)
     }
