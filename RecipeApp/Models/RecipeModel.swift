@@ -72,6 +72,36 @@ extension Recipe {
             category: "Main",
             datePublished: "2019-11-05",
             url: "https://www.forksoverknives.com/recipes/vegan-baked-stuffed/vegetable-pot-pie/"
+        ),
+        Recipe(
+            name: "Roasted Buckwheat Salad",
+            image: "https://www.forksoverknives.com/wp-content/uploads/fly-images/80904/KIK_Roasted_Buckwheat_Salad_WP-1-360x270-c.jpg",
+            description: "Roasted buckwheat, also called kasha, has an earthy, woody flavor that I find very interesting. It makes a nice variation to my grain salads. You can easily change the grain to rice or quinoa and add any mix of herbs you like. This makes a very hearty side dish.",
+            ingredients: "½ acorn squash, cut into ½-inch dice\n1 cup roasted buckwheat\n½ onion, cut into ½-inch dice\n1 cup cherry tomatoes, halved\n½ cup cilantro or parsley, finely chopped\n1 cup baby arugula\n1 cup spinach\n½ cup fresh orange juice\n2 tablespoons toasted pumpkin seeds\nFor the Dressing:\nJuice of ½ lemon\n2 tablespoons white wine vinegar\n1 clove garlic, minced\nSea salt and freshly ground black pepper",
+            direction: "Steam the squash in a double boiler or steamer basket for 10 minutes, or until tender. Be careful not to overcook. Set aside and let cool.\nPlace the buckwheat and 1¾ cups hot water in a medium saucepan and bring to a boil over high heat. Remove from the heat, cover, and let stand for 10 minutes, until the water is absorbed and the grains are soft but chewy. Drain any excess water. Fluff the grains with a fork and set aside to cool.\nTo make the dressing, combine the lemon juice, vinegar, and garlic in a small bowl. Add salt and pepper to taste.\nIn a large mixing bowl, combine the squash, buckwheat, onions, tomatoes, and cilantro or parsley. Add the dressing and mix well.\nIn another bowl, toss the arugula and spinach in the orange juice. Place the greens on individual salad bowls, and top with the grain mixture. Serve garnished with the pumpkin seeds, either chilled or at room temperature.",
+            category: "Salad",
+            datePublished: "2015-04-29",
+            url: "https://www.forksoverknives.com/recipes/vegan-salads-sides/roasted-buckwheat-salad-recipe/"
+        ),
+        Recipe(
+            name: "Pita Chips with Blueberry-Orange Salsa",
+            image: "https://www.forksoverknives.com/wp-content/uploads/fly-images/94404/Pita-Chips-with-Orange-Salsa-Wordpress-360x270-c.jpg",
+            description: "This fruity salsa is made with fresh blueberries, navel oranges, and a hint of maple syrup. It’s a perfect snack or party starter with crunchy homemade pita chips.",
+            ingredients: "3 whole wheat pita bread rounds\n4 navel oranges, peeled, sectioned, and finely chopped\n4 whole pitted dates, chopped (3 tablespoons)\n½ cup fresh blueberries\n1 teaspoon lemon zest\n1 teaspoon pure maple syrup\n1 dash ground cardamom\n3 tablespoons unsalted pistachio nuts, roasted and chopped",
+            direction: "Preheat oven to 400°F. Cut each pita bread into eight wedges. Place wedges in a single layer on a baking sheet. Bake 8 to 10 minutes or until crisp and lightly browned. Cool on a wire rack.\nMeanwhile, in a small bowl stir together the next six ingredients (through cardamom). Serve salsa with pita chips. Top with pistachios.",
+            category: "Snack",
+            datePublished: "2019-09-05",
+            url: "https://www.forksoverknives.com/recipes/vegan-snacks-appetizers/pita-chips-with-blueberry-orange-fruit-salsa/"
+        ),
+        Recipe(
+            name: "Autumn Minestrone",
+            image: "https://www.forksoverknives.com/wp-content/uploads/fly-images/22638/Autumn-Minestrone-300kb-360x270-c.jpg",
+            description: "Nothing says comfort food like a hearty bowl of soup. Curling up on the couch with a great book or movie and a steaming bowl of this twist on minestrone is heaven on any night of the week. Full of healthy veggies and lots of flavor, this soup eats like a meal!",
+            ingredients: "1 medium onion, cut into ½-inch pieces\n2 stalks celery, sliced crosswise into ½-inch pieces\n½ bulb fennel, cut into 1-by-¼-inch pieces (about 1½ cups)\n2 medium Yukon gold potatoes, peeled and cut into 1-inch pieces\n2-3 cloves garlic, finely chopped\n1 can (35 ounces) whole tomatoes, lightly crushed\n8 cups low-sodium vegetable broth\n1 can (15 ounces) cannellini beans, drained and rinsed\nSalt and pepper, to taste\n2 teaspoons red-wine vinegar\n1 zucchini, quartered and sliced\n1½ bunches Swiss chard leaves, thinly sliced (about 6 cups)\n2 cups cooked elbow or fusilli pasta (eggless)\nNutritional yeast or finely ground pumpkin seeds for garnish",
+            direction: "Heat enough water that fills the bottom of the pan in an 8-quart stockpot over medium high heat. Add onion, celery, fennel, potatoes, and garlic and cook, stirring occasionally, about 5 minutes.\nAdd tomatoes and their juices, stock, and cannellini beans; season with 2 teaspoons salt and ½ teaspoon pepper. Increase heat to high and bring to a boil. Reduce heat to a simmer, add in the zucchini and cook until potatoes are tender, about 10 minutes.\nStir in vinegar and Swiss chard; season with salt and pepper. Divide pasta evenly between 6 to 8 bowls. Ladle over soup and garnish with nutritional yeast or ground pumpkin seeds. Serve immediately and enjoy!",
+            category: "Soup",
+            datePublished: "2013-03-18",
+            url: "https://www.forksoverknives.com/recipes/vegan-soups-stews/autumn-minestrone-3/"
         )
     ]
 }
