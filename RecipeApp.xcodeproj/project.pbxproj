@@ -20,6 +20,7 @@
 		BB0B4B8C28499E7B00EFDA3F /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0B4B8B28499E7B00EFDA3F /* RecipeModel.swift */; };
 		BB17C2342849D79800889C2E /* RecipeCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB17C2332849D79800889C2E /* RecipeCard.swift */; };
 		BB17C2362849DCB700889C2E /* RecipeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB17C2352849DCB700889C2E /* RecipeList.swift */; };
+		BBBE473C2855986E009191D5 /* RecipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBBE473B2855986E009191D5 /* RecipeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		BB0B4B8B28499E7B00EFDA3F /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		BB17C2332849D79800889C2E /* RecipeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCard.swift; sourceTree = "<group>"; };
 		BB17C2352849DCB700889C2E /* RecipeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeList.swift; sourceTree = "<group>"; };
+		BBBE473B2855986E009191D5 /* RecipeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 		BB0B4B7B2849991700EFDA3F /* Detail */ = {
 			isa = PBXGroup;
 			children = (
+				BBBE473B2855986E009191D5 /* RecipeView.swift */,
 			);
 			path = Detail;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				BB0B4B84284999BF00EFDA3F /* NewRecipeView.swift in Sources */,
 				BB0B4B8A28499B9B00EFDA3F /* TabBar.swift in Sources */,
 				BB0B4B86284999D200EFDA3F /* FavoritesView.swift in Sources */,
+				BBBE473C2855986E009191D5 /* RecipeView.swift in Sources */,
 				BB17C2362849DCB700889C2E /* RecipeList.swift in Sources */,
 				BB0B4B802849999A00EFDA3F /* HomeView.swift in Sources */,
 				BB0B4B6E284997E100EFDA3F /* ContentView.swift in Sources */,
