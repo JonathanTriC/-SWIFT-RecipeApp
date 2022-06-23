@@ -58,7 +58,7 @@ struct RecipeView: View {
                 }
                 .frame(maxWidth: .infinity, alignment: .leading)
             }
-            .padding(.horizontal)
+            .padding(.horizontal, 20)
         }
         .ignoresSafeArea(.container, edges: .top)
     }
